@@ -21,13 +21,7 @@ import { AuthService } from './shared/services/auth.service';
 
 
 const config = {
-  apiKey: "AIzaSyCg0GT1zOm4A01Af8iC6wnvfJQ2UKlT014",
-  authDomain: "abpg-canada.firebaseapp.com",
-  projectId: "abpg-canada",
-  storageBucket: "abpg-canada.appspot.com",
-  messagingSenderId: "874035179574",
-  appId: "1:874035179574:web:8f79da887545d4b3c46897",
-  measurementId: "G-YKJJL5GZ3R"
+  
 };
 @NgModule({
   declarations: [
